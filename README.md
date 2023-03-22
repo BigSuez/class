@@ -2,4 +2,4 @@
 Data Analysis Bootcamp Projects
 
 
-Testing
+Projects to showcase skills from class
