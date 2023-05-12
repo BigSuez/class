@@ -1,5 +1,5 @@
-# Bootcamp Weeks 1-3
+# Bootcamp Weeks 1-2
 
 Data Analysis Bootcamp Projects 1&2
 
-Analysis Utilizing VBA
+Analysis Utilizing Excel & VBA
